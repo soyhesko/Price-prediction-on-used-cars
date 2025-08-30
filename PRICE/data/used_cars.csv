@@ -1,0 +1,201 @@
+brand;model;model_year;kilometraje;milage (millas);fuel_type;engine;transmission;ext_col;int_col;accident;accident(1 yes /0 no);clean_title;price;precio ($);HP;L;
+Audi;Q3 45 S line Premium Plus;2021;9835;9,835 mi.;Gasoline;2.0L I4 16V GDI DOHC Turbo;8-Speed Automatic;Glacier White Metallic;Black;None reported;0;0;$34,999;34999;#¡VALOR!;#¡VALOR!;0
+Audi;S3 2.0T Premium Plus;2017;84000;84,000 mi.;Gasoline;292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;Blue;Black;None reported;0;Yes;$31,000;31000;292;2;0
+Audi;Q5 2.0T Premium Plus;2017;81880;81,880 mi.;E85 Flex Fuel;2.0L I4 16V GDI DOHC Turbo Flexible Fuel;8-Speed Automatic;Mythos Black Metallic;Black;None reported;0;Yes;$21,375;21375;#¡VALOR!;#¡VALOR!;0
+Audi;A4 2.0T Premium Plus quattro;2012;125575;125,575 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Silver;Black;None reported;0;Yes;$8,999;8999;211;2;0
+Audi;A7 Premium;2012;54000;54,000 mi.;Gasoline;310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Brown;At least 1 accident or damage reported;1;Yes;$36,880;36880;310;3;0
+Audi;A3 2.0T;2010;83500;83,500 mi.;Gasoline;200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Silver;Black;None reported;0;Yes;$6,500;6500;200;2;0
+Audi;R8 5.2 V10;2018;8940;8,940 mi.;Gasoline;5.2L V10 40V PDI DOHC;7-Speed Automatic with Auto-Shift;Tango Red Metallic;Black;None reported;0;0;$144,900;144900;#¡VALOR!;#¡VALOR!;0
+Audi;A5 2.0T Premium Plus;2019;47523;47,523 mi.;Gasoline;248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Black;None reported;0;Yes;$31,000;31000;248;2;0
+Audi;RS 5 2.9T;2019;21240;21,240 mi.;Gasoline;444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$59,950;59950;444;2.9;0
+Audi;RS 7 4.0T Prestige;2014;59715;59,715 mi.;Gasoline;560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;A/T;Gray;Black;At least 1 accident or damage reported;1;Yes;$45,000;45000;560;4;0
+Audi;A5 2.0T Premium;2011;92203;92,203 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Red;Beige;None reported;0;Yes;$9,995;9995;211;2;0
+Audi;A7 Premium Plus;2020;25361;25,361 mi.;Hybrid;3.0 Liter Turbo;Automatic;Typhoon Gray;Black;None reported;0;0;$49,998;49998;#¡VALOR!;3;0
+Audi;Q7 3.0T Premium Plus;2015;98527;98,527 mi.;Gasoline;280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;0;0;0;$9,995;9995;280;3;0
+Audi;TTS 2.0T Premium Plus;2012;72922;72,922 mi.;Gasoline;265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;White;Black;0;0;0;$25,999;25999;265;2;0
+Audi;S7 4.0T Premium Plus;2017;52500;52,500 mi.;Gasoline;450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Gray;None reported;0;Yes;$39,999;39999;450;4;0
+Audi;Q7 45 Premium Plus;2021;68000;68,000 mi.;Gasoline;248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Blue;Black;None reported;0;Yes;$36,499;36499;248;2;0
+Audi;RS 7 4.0T quattro;2023;3158;3,158 mi.;Gasoline;4.0L V8 32V GDI DOHC Twin Turbo;1-Speed Automatic;Daytona Gray Pearl Effect;Black / Express Red;None reported;0;0;$128,900;128900;#¡VALOR!;#¡VALOR!;0
+Audi;A5 2.0T Premium Plus;2015;82000;82,000 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;White;Brown;None reported;0;Yes;$17,000;17000;220;2;0
+Audi;TT RS 2.5T;2018;20675;20,675 mi.;Gasoline;400.0HP 2.5L 5 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Gray;None reported;0;Yes;$76,000;76000;400;2.5;0
+Audi;SQ5 3.0T Premium Plus;2016;60000;60,000 mi.;Gasoline;354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Black;At least 1 accident or damage reported;1;Yes;$24,700;24700;354;3;0
+Audi;RS Q8 4.0T quattro;2022;11322;11,322 mi.;Gasoline;4.0L V8 32V GDI DOHC Twin Turbo;8-Speed Automatic;Daytona Gray Pearl Effect;Black / Express Red;None reported;0;0;$119,900;119900;#¡VALOR!;#¡VALOR!;0
+Audi;Q5 Premium;2023;2425;2,425 mi.;Hybrid;2.0 Liter TFSI;Automatic;Mythos Black;â€“;None reported;0;0;$42,998;42998;#¡VALOR!;2;0
+Audi;S7 2.9T Prestige;2021;12000;12,000 mi.;Hybrid;444.0HP 2.9L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Gray;Black;None reported;0;Yes;$77,500;77500;444;2.9;0
+Audi;SQ7 4.0T;2022;28927;28,927 mi.;Gasoline;4.0L V8 32V GDI DOHC Twin Turbo;Automatic;Matador Red Metallic;Black;None reported;0;0;$74,900;74900;#¡VALOR!;#¡VALOR!;0
+Audi;Q3 45 S line Premium;2022;9325;9,325 mi.;Gasoline;2.0L I4 16V GDI DOHC Turbo;8-Speed Automatic;Mythos Black Metallic;Black;None reported;0;0;$33,610;33610;#¡VALOR!;#¡VALOR!;0
+Audi;Q5 S line Premium Plus;2023;4648;4,648 mi.;Hybrid;2.0 Liter TFSI;Automatic;Mythos Black;Black;None reported;0;0;$47,598;47598;#¡VALOR!;2;0
+Audi;R8 5.2;2015;51000;51,000 mi.;Gasoline;550.0HP 5.2L 10 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Black;At least 1 accident or damage reported;1;Yes;$102,000;102000;550;5.2;0
+Audi;S3 2.0T Tech Premium Plus;2018;16400;16,400 mi.;Gasoline;292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Blue;Red;None reported;0;Yes;$42,800;42800;292;2;0
+Audi;SQ5 3.0T Premium Plus;2022;8497;8,497 mi.;Gasoline;3.0L V6 24V GDI DOHC Turbo;Automatic;Ibis White;Black;None reported;0;0;$52,900;52900;#¡VALOR!;#¡VALOR!;0
+Audi;A6 2.0T Premium Plus;2016;68000;68,000 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Black;At least 1 accident or damage reported;1;Yes;$20,000;20000;252;2;0
+Audi;SQ5 3.0T Prestige;2018;25000;25,000 mi.;Gasoline;354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Black;None reported;0;Yes;$50,000;50000;354;3;0
+Audi;TT 2.0T;2015;126760;126,760 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$14,000;14000;211;2;0
+Audi;Q7 55 Prestige;2019;73837;73,837 mi.;Gasoline;3.0L V6 24V GDI DOHC Supercharged;8-Speed Automatic;Cobra Beige Metallic;Nougat Brown;None reported;0;Yes;$36,340;36340;#¡VALOR!;#¡VALOR!;0
+Audi;RS Q8 4.0T;2020;41856;41,856 mi.;Gasoline;591.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$91,500;91500;591;4;0
+Audi;RS 7 4.0T Performance Prestige;2017;39071;39,071 mi.;Gasoline;4.0L V8 32V GDI DOHC Twin Turbo;8-Speed Automatic;White;Black;None reported;0;0;$67,900;67900;#¡VALOR!;#¡VALOR!;0
+Audi;Q7 3.0T Premium;2017;108000;108,000 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Brown;None reported;0;Yes;$25,999;25999;333;3;0
+Audi;e-tron Prestige;2019;33012;33,012 mi.;0;355.0HP Electric Motor Electric Fuel System;1-Speed A/T;Blue;Beige;None reported;0;Yes;$38,000;38000;355;#¡VALOR!;0
+Audi;A7 3.0T Premium Plus;2018;45843;45,843 mi.;Gasoline;340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Silver;Black;None reported;0;Yes;$37,000;37000;340;3;0
+Audi;SQ5 3.0T Prestige;2019;48500;48,500 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;At least 1 accident or damage reported;1;Yes;$43,500;43500;349;3;0
+Audi;S4 3.0T Premium;2019;18603;18,603 mi.;Gasoline;3.0L V6 24V GDI DOHC Turbo;8-Speed Automatic;Brilliant Black;Black;None reported;0;0;$42,900;42900;#¡VALOR!;#¡VALOR!;0
+Audi;A8 4.0;2020;35999;35,999 mi.;Hybrid;4.0 Liter Turbo;Automatic;Mythos Black Metallic;Sarder Brown;None reported;0;0;$59,598;59598;#¡VALOR!;4;0
+Audi;A7 3.0T Premium Plus;2018;29294;29,294 mi.;Gasoline;340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;White;Beige;None reported;0;Yes;$39,999;39999;340;3;0
+Audi;TT 2.0T;2018;42650;42,650 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$31,990;31990;220;2;0
+Audi;S6 4.0T;2016;91188;91,188 mi.;Gasoline;450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;7-Speed A/T;Black;Black;None reported;0;Yes;$29,995;29995;450;4;0
+Audi;TT 3.2 Cabriolet quattro;2008;207000;207,000 mi.;Gasoline;250.0HP 3.2L V6 Cylinder Engine Gasoline Fuel;6-Speed M/T;Black;Black;At least 1 accident or damage reported;1;Yes;$10,500;10500;250;3.2;0
+Audi;A7 Premium;2012;103272;103,272 mi.;Gasoline;310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Brown;None reported;0;Yes;$15,500;15500;310;3;0
+Audi;Q5 2.0T Premium Plus;2013;111773;111,773 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Brown;Beige;None reported;0;Yes;$17,000;17000;211;2;0
+Audi;RS 7 4.0T;2021;14724;14,724 mi.;Hybrid;4.0 Liter TFSI;Automatic;Glacier White;Black/Red;None reported;0;0;$101,998;101998;#¡VALOR!;4;0
+Audi;RS 7 4.0T Prestige;2016;31500;31,500 mi.;Gasoline;560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Black;None reported;0;Yes;$67,000;67000;560;4;0
+Audi;A7 55 Premium Plus;2022;15000;15,000 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;Gray;Black;None reported;0;Yes;$63,000;63000;335;3;0
+Audi;A3 2.0 TDI Premium Plus;2015;83000;83,000 mi.;Diesel;150.0HP 2.0L 4 Cylinder Engine Diesel Fuel;6-Speed A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$18,999;18999;150;2;0
+Audi;e-tron Prestige;2019;16000;16,000 mi.;0;355.0HP Electric Motor Electric Fuel System;A/T;White;Beige;At least 1 accident or damage reported;1;Yes;$39,990;39990;355;#¡VALOR!;0
+Audi;A3 2.0T Tech Premium;2018;49500;49,500 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;Blue;Gray;None reported;0;Yes;$25,000;25000;220;2;0
+Audi;S8 4.2 quattro;2003;126000;126,000 mi.;Gasoline;360.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;0;0;0;$13,850;13850;360;4.2;0
+Audi;R8 Base;2008;49000;49,000 mi.;Gasoline;420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Black;Black;None reported;0;Yes;$63,000;63000;420;4.2;0
+Audi;A8 L 55;2019;93400;93,400 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;Silver;Brown;None reported;0;Yes;$42,500;42500;335;3;0
+Audi;A7 3.0T Premium Plus;2017;39000;39,000 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Black;At least 1 accident or damage reported;1;Yes;$35,000;35000;333;3;0
+Audi;S8 4.0T Plus;2017;54300;54,300 mi.;Gasoline;605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;None reported;0;Yes;$53,500;53500;605;4;0
+Audi;A8 L 4.0T;2016;142666;142,666 mi.;Gasoline;450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$22,000;22000;450;4;0
+Audi;Q3 S line Premium Plus;2022;17377;17,377 mi.;Gasoline;2.0 Liter TFSI;Automatic;Glacier White;Pearl Beige;None reported;0;0;$39,998;39998;#¡VALOR!;2;0
+Audi;allroad 2.7T;2005;153000;153,000 mi.;Gasoline;250.0HP 2.7L V6 Cylinder Engine Gasoline Fuel;M/T;Blue;Blue;At least 1 accident or damage reported;1;Yes;$6,500;6500;250;2.7;0
+Audi;SQ5 3.0T Premium Plus;2018;72000;72,000 mi.;Gasoline;354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Blue;Black;At least 1 accident or damage reported;1;Yes;$30,000;30000;354;3;0
+Audi;A8 L 55;2019;39000;39,000 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Black;Brown;None reported;0;Yes;$50,000;50000;335;3;0
+Audi;RS 5 4.2;2014;49098;49,098 mi.;Gasoline;450.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Black;At least 1 accident or damage reported;1;Yes;$44,900;44900;450;4.2;0
+Audi;A3 2.0T Premium;2019;28211;28,211 mi.;Gasoline;184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;At least 1 accident or damage reported;1;Yes;$27,500;27500;184;2;0
+Audi;A4 2.0T Premium;2015;91403;91,403 mi.;E85 Flex Fuel;2.0L I4 16V GDI DOHC Turbo Flexible Fuel;8-Speed Automatic;Silver;Gray;None reported;0;0;$14,998;14998;#¡VALOR!;#¡VALOR!;0
+Audi;A8 L 3.0T;2016;55000;55,000 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;White;Brown;None reported;0;Yes;$28,000;28000;333;3;0
+Audi;A7 3.0T Prestige;2015;73000;73,000 mi.;Diesel;240.0HP 3.0L V6 Cylinder Engine Diesel Fuel;8-Speed A/T;White;Gray;None reported;0;Yes;$34,000;34000;240;3;0
+Audi;A7 55 Premium;2020;27100;27,100 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;White;Black;None reported;0;Yes;$50,000;50000;335;3;0
+Audi;e-tron Prestige;2019;7874;7,874 mi.;0;Electric;1-Speed Automatic;Typhoon Gray Metallic;Pearl Beige;None reported;0;0;$38,999;38999;#¡VALOR!;#¡VALOR!;0
+Audi;e-tron Premium;2021;18031;18,031 mi.;0;Electric;1-Speed Automatic;Navarra Blue Metallic;Black;None reported;0;0;$39,599;39599;#¡VALOR!;#¡VALOR!;0
+Audi;A4 2.0T Premium;2012;129567;129,567 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Black;None reported;0;Yes;$7,000;7000;211;2;0
+Audi;Q8 55 Premium Plus;2021;14750;14,750 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;Transmission w/Dual Shift Mode;Silver;Black;None reported;0;Yes;$61,059;61059;335;3;0
+Audi;R8 5.2 V10 performance;2020;12245;12,245 mi.;Gasoline;5.2L V10 40V PDI DOHC;7-Speed Automatic with Auto-Shift;Daytona Gray Pearl Effect w/ Black Roof;Black / Express Red;None reported;0;0;$187,900;187900;#¡VALOR!;#¡VALOR!;0
+Audi;R8 5.2;2014;21800;21,800 mi.;Gasoline;525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Black;None reported;0;Yes;$117,000;117000;525;5.2;0
+Audi;S8 4.0T quattro;2023;4457;4,457 mi.;Gasoline;4.0L V8 32V GDI DOHC Twin Turbo;Automatic;Mythos Black Metallic;Black;None reported;0;0;$107,900;107900;#¡VALOR!;#¡VALOR!;0
+Audi;RS 3 2.5T;2023;1900;1,900 mi.;Gasoline;401.0HP 2.5L 5 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$78,900;78900;401;2.5;0
+Audi;RS 5 4.2;2013;75965;75,965 mi.;Gasoline;450.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Black;At least 1 accident or damage reported;1;Yes;$35,999;35999;450;4.2;0
+Audi;S5 4.2 Premium Plus;2011;156875;156,875 mi.;Gasoline;354.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Black;Red;At least 1 accident or damage reported;1;Yes;$9,900;9900;354;4.2;0
+Audi;A5 2.0T Premium;2018;53000;53,000 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Brown;At least 1 accident or damage reported;1;Yes;$28,000;28000;252;2;0
+Audi;A6 3.2 quattro;2008;202000;202,000 mi.;Gasoline;255.0HP 3.2L V6 Cylinder Engine Gasoline Fuel;A/T;Blue;Gray;At least 1 accident or damage reported;1;Yes;$5,700;5700;255;3.2;0
+Audi;RS 7 4.0T;2022;4100;4,100 mi.;Hybrid;591.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Blue;Black;None reported;0;Yes;$162,500;162500;591;4;0
+Audi;S5 3.0T Premium Plus;2014;67900;67,900 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;6-Speed M/T;Silver;Black;0;0;0;$25,990;25990;333;3;0
+Audi;S4 4.2 quattro;2004;74030;74,030 mi.;Gasoline;340.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Silver;Gray;None reported;0;Yes;$16,000;16000;340;4.2;0
+Audi;A5 2.0T Premium Plus;2012;77000;77,000 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;White;Black;None reported;0;Yes;$13,800;13800;211;2;0
+Audi;A5 2.0T Premium;2018;67035;67,035 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Pink;Brown;At least 1 accident or damage reported;1;Yes;$31,500;31500;252;2;0
+Audi;S5 3.0 Premium Plus;2012;61450;61,450 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Gray;None reported;0;Yes;$19,500;19500;333;3;0
+Audi;Q7 Premium Plus;2023;10601;10,601 mi.;Hybrid;3.0 Liter TFSI;Automatic;Mythos Black;Black;None reported;0;0;$61,998;61998;#¡VALOR!;3;0
+Audi;A5 2.0T Premium;2013;111000;111,000 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Blue;Beige;None reported;0;Yes;$11,500;11500;211;2;0
+Audi;TT 2.0T Premium;2012;64549;64,549 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Silver;Black;None reported;0;Yes;$17,000;17000;211;2;0
+Audi;S4 3.0T Premium;2019;12000;12,000 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Black;Black;None reported;0;Yes;$48,000;48000;349;3;0
+Audi;TTS 2.0T Premium Plus;2011;69700;69,700 mi.;Gasoline;265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;Orange;â€“;At least 1 accident or damage reported;1;Yes;$23,000;23000;265;2;0
+Audi;Q4 e-tron Sportback Premium;2023;1156;1,156 mi.;0;295.0HP Electric Motor Electric Fuel System;A/T;Blue;Black;None reported;0;Yes;$54,900;54900;295;#¡VALOR!;0
+Audi;SQ5 3.0T Premium;2020;21832;21,832 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Blue;Black;None reported;0;Yes;$42,000;42000;349;3;0
+Audi;Q5 2.0T Premium;2012;119000;119,000 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Gray;â€“;None reported;0;Yes;$12,000;12000;211;2;0
+Audi;A6 3.0T Prestige;2015;108000;108,000 mi.;Gasoline;310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Brown;None reported;0;Yes;$19,998;19998;310;3;0
+Audi;RS 7 4.0T Prestige;2014;66150;66,150 mi.;Gasoline;560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;White;Black;At least 1 accident or damage reported;1;Yes;$47,995;47995;560;4;0
+Audi;S5 3.0T Premium;2021;18100;18,100 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Gray;None reported;0;Yes;$51,800;51800;349;3;0
+Audi;S5 3.0T Prestige;2021;13566;13,566 mi.;Gasoline;3.0L;1-Speed Automatic;Daytona Gray Pearl Effect;Magma Red;None reported;0;0;$57,900;57900;#¡VALOR!;#¡VALOR!;0
+Audi;Q7 Premium Plus;2022;22588;22,588 mi.;Hybrid;3.0 Liter TFSI;Automatic;Navarra Blue;Saiga Beige;None reported;0;0;$52,598;52598;#¡VALOR!;3;0
+Audi;S3 2.0T Premium Plus;2015;78124;78,124 mi.;Gasoline;292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;Blue;Black;None reported;0;Yes;$21,500;21500;292;2;0
+Audi;RS 4 4.2 quattro L;2008;146500;146,500 mi.;Gasoline;420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Red;Black;At least 1 accident or damage reported;1;Yes;$30,000;30000;420;4.2;0
+Audi;A4 2.0T Premium Plus;2015;73000;73,000 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$17,200;17200;220;2;0
+Audi;A4 3.2 Premium Plus quattro;2009;153000;153,000 mi.;Gasoline;265.0HP 3.2L V6 Cylinder Engine Gasoline Fuel;6-Speed A/T;Gray;Beige;None reported;0;Yes;$8,700;8700;265;3.2;0
+Audi;Q8 3.0T Prestige;2019;54900;54,900 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;Gold;Black;At least 1 accident or damage reported;1;Yes;$48,500;48500;335;3;0
+Audi;S5 3.0T Prestige;2022;14739;14,739 mi.;Gasoline;3.0L;1-Speed Automatic;Daytona Gray Pearl Effect;Black;None reported;0;0;$61,900;61900;#¡VALOR!;#¡VALOR!;0
+Audi;A6 55 Premium Plus;2023;6581;6,581 mi.;Gasoline;3L V-6 gasoline direct injection, DOHC, variable valve control,;Automatic, 7-Spd S tronic Dual-Clutch;Chronos Gray Metallic;Black;None reported;0;0;$59,900;59900;#¡VALOR!;#¡VALOR!;0
+Audi;A5 2.0T Premium;2012;137273;137,273 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Beige;None reported;0;Yes;$11,000;11000;211;2;0
+Audi;A6 2.0T Premium Plus;2016;63398;63,398 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Gray;At least 1 accident or damage reported;1;Yes;$19,500;19500;252;2;0
+Audi;A4 2.0T Premium;2011;90818;90,818 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Black;At least 1 accident or damage reported;1;Yes;$8,300;8300;211;2;0
+Audi;R8 5.2 quattro Spyder;2011;75000;75,000 mi.;Gasoline;525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Brown;At least 1 accident or damage reported;1;Yes;$74,000;74000;525;5.2;0
+Audi;A4 2.0T Titanium Premium;2019;7300;7,300 mi.;Gasoline;188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Gray;None reported;0;Yes;$27,900;27900;188;2;0
+Audi;S4 Base;2007;93000;93,000 mi.;Gasoline;340.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Black;Black;At least 1 accident or damage reported;1;Yes;$10,995;10995;340;4.2;0
+Audi;S4 3.0T Premium Plus;2020;23823;23,823 mi.;Gasoline;3.0L V6 24V GDI DOHC Turbo;8-Speed Automatic;Tango Red Metallic;Black;None reported;0;Yes;$49,995;49995;#¡VALOR!;#¡VALOR!;0
+Audi;Q5 3.0 TDI Premium Plus;2014;55564;55,564 mi.;Diesel;240.0HP 3.0L V6 Cylinder Engine Diesel Fuel;8-Speed A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$22,500;22500;240;3;0
+Audi;Q5 S line Premium;2022;10120;10,120 mi.;Hybrid;2.0 Liter TFSI;Automatic;Navarre Blue;Gray;None reported;0;0;$39,998;39998;#¡VALOR!;2;0
+Audi;Q7 3.0T Premium Plus;2014;96273;96,273 mi.;Gasoline;280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Silver;Black;At least 1 accident or damage reported;1;Yes;$15,495;15495;280;3;0
+Audi;R8 4.2 quattro Spyder;2011;35322;35,322 mi.;Gasoline;4.2L V8 32V GDI DOHC;6-Speed Manual;Phantom Black Pearl Effect / Black Roof;Red;None reported;0;0;$94,900;94900;#¡VALOR!;#¡VALOR!;0
+Audi;A6 3.0T Premium Plus;2016;71280;71,280 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Silver;Black;None reported;0;Yes;$22,000;22000;333;3;0
+Audi;RS 5 2.9T;2022;9628;9,628 mi.;Gasoline;444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;White;Black;None reported;0;Yes;$78,500;78500;444;2.9;0
+Audi;R8 5.2 V10;2021;6397;6,397 mi.;Gasoline;5.2L V10 40V PDI DOHC;7-Speed Automatic with Auto-Shift;Kemora Gray Metallic;Black / Express Red;None reported;0;0;$172,900;172900;#¡VALOR!;#¡VALOR!;0
+Audi;SQ5 3.0T Premium Plus;2019;22300;22,300 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Blue;Gray;None reported;0;Yes;$38,999;38999;349;3;0
+Audi;Q8 55 Premium Plus;2021;30000;30,000 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Black;Black;None reported;0;Yes;$62,000;62000;335;3;0
+Audi;S4 3.0T Premium Plus;2013;91877;91,877 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Black;Red;At least 1 accident or damage reported;1;Yes;$24,000;24000;333;3;0
+Audi;Q8 55 Premium;2020;34300;34,300 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Gray;Brown;None reported;0;Yes;$52,500;52500;335;3;0
+Audi;RS 7 4.0T Performance Prestige;2017;66250;66,250 mi.;Gasoline;605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Gray;At least 1 accident or damage reported;1;Yes;$59,200;59200;605;4;0
+Audi;A7 3.0T Prestige;2013;87066;87,066 mi.;Gasoline;310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Silver;Black;None reported;0;Yes;$20,999;20999;310;3;0
+Audi;Q8 3.0T Prestige;2019;38360;38,360 mi.;Gasoline;3.0L V6 24V GDI DOHC Turbo;8-Speed Automatic;Orca Black Metallic;Black;None reported;0;0;$49,936;49936;#¡VALOR!;#¡VALOR!;0
+Audi;Q5 S line Premium Plus;2023;5682;5,682 mi.;Hybrid;2.0 Liter TFSI;Automatic;Chronos Gray;Gray;None reported;0;0;$48,698;48698;#¡VALOR!;2;0
+Audi;Q7 3.0T Prestige;2018;70773;70,773 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;White;Black;None reported;0;Yes;$30,950;30950;333;3;0
+Audi;Q5 S line Premium;2022;18099;18,099 mi.;Hybrid;2.0 Liter TFSI;Automatic;Daytona Gray;Gray;None reported;0;0;$40,798;40798;#¡VALOR!;2;0
+Audi;Q3 2.0T Premium Plus;2015;155382;155,382 mi.;Gasoline;200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Brown;Gray;At least 1 accident or damage reported;1;Yes;$13,500;13500;200;2;0
+Audi;Q5 S line Premium Plus;2022;10071;10,071 mi.;Hybrid;2.0 Liter TFSI;Automatic;Mythos Black Metallic;Black;None reported;0;0;$40,598;40598;#¡VALOR!;2;0
+Audi;TT 1.8L;2005;124747;124,747 mi.;Gasoline;180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Silver;Black;None reported;0;Yes;$6,900;6900;180;1.8;0
+Audi;A6 3.0 TDI Premium Plus;2014;42400;42,400 mi.;Diesel;240.0HP 3.0L V6 Cylinder Engine Diesel Fuel;8-Speed A/T;Silver;Black;None reported;0;Yes;$26,500;26500;240;3;0
+Audi;S5 3.0T Premium Plus;2014;151400;151,400 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$15,400;15400;333;3;0
+Audi;RS 4 Base;2007;99769;99,769 mi.;Gasoline;420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel;6-Speed M/T;Gray;White;None reported;0;Yes;$29,995;29995;420;4.2;0
+Audi;S6 4.0T;2015;74000;74,000 mi.;Gasoline;420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;7-Speed A/T;Blue;Gray;None reported;0;Yes;$29,950;29950;420;4;0
+Audi;TT RS Base;2012;54900;54,900 mi.;Gasoline;360.0HP 2.5L 5 Cylinder Engine Gasoline Fuel;6-Speed M/T;White;Brown;0;0;0;$28,900;28900;360;2.5;0
+Audi;Q5 S line Premium Plus;2022;13895;13,895 mi.;Hybrid;2.0 Liter TFSI;Automatic;Daytona Gray;Black;None reported;0;0;$44,998;44998;#¡VALOR!;2;0
+Audi;A4 2.0T Premium;2012;125000;125,000 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;None reported;0;Yes;$10,500;10500;211;2;0
+Audi;A8 4.0T;2014;96238;96,238 mi.;Gasoline;420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Black;At least 1 accident or damage reported;1;Yes;$22,500;22500;420;4;0
+Audi;S4 3.0 Prestige;2012;98400;98,400 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;White;None reported;0;Yes;$18,000;18000;333;3;0
+Audi;Q5 3.0T Premium Plus;2015;60251;60,251 mi.;Gasoline;272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$19,000;19000;272;3;0
+Audi;A4 2.0T Tech Premium;2018;27532;27,532 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;Gray;Black;None reported;0;Yes;$27,900;27900;252;2;0
+Audi;R8 5.2 V10 plus;2017;61000;61,000 mi.;Gasoline;610.0HP 5.2L 10 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$140,000;140000;610;5.2;0
+Audi;Q5 2.0T Premium Plus;2015;118500;118,500 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;A/T;Silver;Black;At least 1 accident or damage reported;1;Yes;$15,400;15400;220;2;0
+Audi;Q5 S line Premium;2022;8193;8,193 mi.;Hybrid;2.0 Liter TFSI;Automatic;Florett Silver;Black;None reported;0;0;$42,598;42598;#¡VALOR!;2;0
+Audi;S4 3.0T Premium Plus;2018;26500;26,500 mi.;Gasoline;354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Black;At least 1 accident or damage reported;1;Yes;$38,000;38000;354;3;0
+Audi;A5 2.0T Prestige;2018;35850;35,850 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Black;None reported;0;Yes;$33,000;33000;252;2;0
+Audi;A6 45 Premium Plus;2021;33000;33,000 mi.;Hybrid;248.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;Black;Black;None reported;0;Yes;$40,000;40000;248;2;0
+Audi;S4 3.0T Premium Plus;2013;139355;139,355 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;Black;Black;None reported;0;Yes;$20,900;20900;333;3;0
+Audi;A3 2.0T Premium;2017;137000;137,000 mi.;Gasoline;186.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Gray;None reported;0;Yes;$10,995;10995;186;2;0
+Audi;S5 3.0T Prestige;2018;44000;44,000 mi.;Gasoline;354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;8-Speed A/T;Gray;Black;None reported;0;Yes;$39,000;39000;354;3;0
+Audi;Q5 2.0T Premium Plus;2018;50400;50,400 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Beige;None reported;0;Yes;$28,500;28500;252;2;0
+Audi;A3 2.0T Premium;2018;36500;36,500 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;Gray;Silver;At least 1 accident or damage reported;1;Yes;$25,500;25500;220;2;0
+Audi;A7 3.0T Premium;2019;45900;45,900 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;Transmission w/Dual Shift Mode;Black;Black;At least 1 accident or damage reported;1;Yes;$41,500;41500;335;3;0
+Audi;allroad 2.0T Prestige;2013;104457;104,457 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Silver;Black;None reported;0;Yes;$17,900;17900;211;2;0
+Audi;S4 3.0T Premium Plus;2014;106000;106,000 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;6-Speed M/T;Gray;Black;At least 1 accident or damage reported;1;Yes;$23,000;23000;333;3;0
+Audi;Q5 S line Premium Plus;2023;6682;6,682 mi.;Hybrid;2.0 Liter TFSI;Automatic;Mythos Black Metallic;Rock Gray;None reported;0;0;$47,798;47798;#¡VALOR!;2;0
+Audi;A8 L 55;2019;35580;35,580 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;Black;Black;None reported;0;Yes;$49,500;49500;335;3;0
+Audi;A5 Sportback S line Premium Plus;2021;35000;35,000 mi.;Hybrid;261.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid;7-Speed A/T;Black;Black;None reported;0;Yes;$37,499;37499;261;2;0
+Audi;Q7 3.0T Prestige;2018;63400;63,400 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Black;Black;None reported;0;Yes;$29,900;29900;333;3;0
+Audi;Q5 S line Premium Plus;2022;13133;13,133 mi.;Hybrid;2.0 Liter TFSI;Automatic;Silver;Black;None reported;0;0;$42,998;42998;#¡VALOR!;2;0
+Audi;TT 1.8T;2004;79500;79,500 mi.;Gasoline;180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel;A/T;Silver;Black;None reported;0;Yes;$12,000;12000;180;1.8;0
+Audi;S6 4.0T Premium Plus;2018;61258;61,258 mi.;Gasoline;450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Black;None reported;0;Yes;$49,999;49999;450;4;0
+Audi;A6 3.0T Prestige;2014;89500;89,500 mi.;Gasoline;310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$18,000;18000;310;3;0
+Audi;Q5 2.0T Premium Plus;2019;50000;50,000 mi.;Gasoline;248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;White;Beige;At least 1 accident or damage reported;1;Yes;$27,000;27000;248;2;0
+Audi;Q5 2.0T Premium Plus;2015;54700;54,700 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;8-Speed A/T;Gray;Brown;At least 1 accident or damage reported;1;Yes;$20,995;20995;220;2;0
+Audi;Q5 2.0T Premium Plus;2016;52105;52,105 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;A/T;White;Beige;At least 1 accident or damage reported;1;Yes;$20,499;20499;220;2;0
+Audi;S4 3.0 Prestige;2012;38718;38,718 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;Black;Black;None reported;0;Yes;$31,000;31000;333;3;0
+Audi;A3 2.0T Tech Premium;2018;39600;39,600 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;White;Black;None reported;0;Yes;$26,999;26999;220;2;0
+Audi;A5 2.0T Premium Plus;2019;23827;23,827 mi.;Gasoline;248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;7-Speed A/T;Gray;Black;None reported;0;Yes;$34,995;34995;248;2;0
+Audi;A6 55 Premium;2020;25300;25,300 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;7-Speed A/T;White;Beige;None reported;0;Yes;$39,900;39900;335;3;0
+Audi;SQ8 4.0T Premium Plus;2021;43238;43,238 mi.;Gasoline;500.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Red;None reported;0;Yes;$76,400;76400;500;4;0
+Audi;RS 7 4.0T Prestige;2016;64800;64,800 mi.;Gasoline;560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;8-Speed A/T;White;Brown;None reported;0;Yes;$50,000;50000;560;4;0
+Audi;A6 2.0T Premium Plus;2016;96000;96,000 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;8-Speed A/T;Black;Black;None reported;0;Yes;$21,990;21990;252;2;0
+Audi;A6 55 Prestige;2021;22800;22,800 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;A/T;Blue;Brown;None reported;0;Yes;$52,000;52000;335;3;0
+Audi;A6 3.0T Premium Plus;2016;72865;72,865 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$22,000;22000;333;3;0
+Audi;A3 2.0T Premium;2012;111564;111,564 mi.;Gasoline;200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;6-Speed A/T;White;Black;None reported;0;Yes;$11,200;11200;200;2;0
+Audi;TT Roadster quattro;2002;69300;69,300 mi.;Gasoline;225.0HP 1.8L 4 Cylinder Engine Gasoline Fuel;6-Speed M/T;Gray;Black;At least 1 accident or damage reported;1;Yes;$9,995;9995;225;1.8;0
+Audi;A4 2.0T Premium Plus;2015;83420;83,420 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;8-Speed A/T;Red;Gray;At least 1 accident or damage reported;1;Yes;$16,000;16000;220;2;0
+Audi;A4 2.0T Premium quattro;2011;181000;181,000 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;White;Black;None reported;0;Yes;$5,500;5500;211;2;0
+Audi;A3 2.0T Premium;2016;90360;90,360 mi.;Gasoline;220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$15,499;15499;220;2;0
+Audi;A4 2.0T Premium;2014;90236;90,236 mi.;E85 Flex Fuel;220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability;Transmission w/Dual Shift Mode;Gray;Black;None reported;0;Yes;$9,999;9999;220;2;0
+Audi;A4 2.0T Premium;2013;96800;96,800 mi.;Gasoline;211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Gray;Black;At least 1 accident or damage reported;1;Yes;$11,000;11000;211;2;0
+Audi;S4 3.0T Premium Plus;2014;102370;102,370 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;Gray;Black;None reported;0;Yes;$21,373;21373;333;3;0
+Audi;Q4 e-tron 50 Premium Plus;2022;250;250 mi.;0;295.0HP Electric Motor Electric Fuel System;1-Speed A/T;Gray;Black;None reported;0;Yes;$52,000;52000;295;#¡VALOR!;0
+Audi;A5 45 S line Premium Plus;2022;24500;24,500 mi.;Hybrid;261.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid;Transmission w/Dual Shift Mode;White;Black;None reported;0;Yes;$47,000;47000;261;2;0
+Audi;A8 L 55;2019;23350;23,350 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;Transmission w/Dual Shift Mode;Black;Brown;None reported;0;Yes;$48,000;48000;335;3;0
+Audi;S6 4.0T Prestige;2013;53900;53,900 mi.;Gasoline;420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel;7-Speed A/T;Black;Black;0;0;0;$27,450;27450;420;4;0
+Audi;Q5 S line Premium Plus;2023;6046;6,046 mi.;Hybrid;2.0 Liter TFSI;Automatic;Daytona Gray;Black;None reported;0;0;$51,598;51598;#¡VALOR!;2;0
+Audi;A6 55 Premium;2019;10832;10,832 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;7-Speed A/T;Black;Black;None reported;0;Yes;$42,500;42500;335;3;0
+Audi;Q8 3.0T Premium;2019;51984;51,984 mi.;Hybrid;335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid;8-Speed A/T;White;â€“;None reported;0;Yes;$44,870;44870;335;3;0
+Audi;Q5 2.0T Premium Plus;2019;24500;24,500 mi.;Gasoline;248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Black;â€“;None reported;0;Yes;$31,000;31000;248;2;0
+Audi;S5 3.0T Prestige;2013;37500;37,500 mi.;Gasoline;333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;7-Speed A/T;Black;Black;None reported;0;Yes;$26,000;26000;333;3;0
+Audi;Q5 40 Premium;2022;14550;14,550 mi.;Hybrid;201.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid;7-Speed A/T;Silver;Brown;None reported;0;Yes;$41,500;41500;201;2;0
+Audi;A6 2.0T Sport;2018;49650;49,650 mi.;Gasoline;252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel;A/T;Black;Black;At least 1 accident or damage reported;1;Yes;$23,750;23750;252;2;0
+Audi;Q7 55 Prestige;2019;41000;41,000 mi.;Gasoline;329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;A/T;White;Beige;None reported;0;Yes;$39,900;39900;329;3;0
+Audi;S4 3.0T Premium Plus;2022;10900;10,900 mi.;Gasoline;349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel;Transmission w/Dual Shift Mode;Black;Black;None reported;0;Yes;$53,900;53900;349;3;0
